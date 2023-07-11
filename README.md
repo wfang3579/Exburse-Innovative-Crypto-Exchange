@@ -7,3 +7,7 @@
 <h2 align="center">And a welcome bonus of 100$ for the first deposit will help in this!</h2>
 
 ![изображение](https://github.com/wfang3579/Exburse-Innovative-Crypto-Exchange/assets/118650203/5dc9aa1c-81b8-40cd-85bf-6c5701fd9455)
+
+<p align="center">
+  <img src="https://github.com/wfang3579/Exburse-Innovative-Crypto-Exchange/assets/118650203/5dc9aa1c-81b8-40cd-85bf-6c5701fd9455" />
+</p>
