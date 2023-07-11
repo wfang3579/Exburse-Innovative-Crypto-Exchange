@@ -39,6 +39,6 @@ __Now you don't have to switch from exchange to exchange for the sake of staking
 <h4 align="center">As well as hundreds of other features that will definitely surprise you!</h4>
 
 
-Direct link to the website: https://exburse.com/
-Support Center: support@exburse.com
-For cooperation and investors: invest@exburse.com
+* Direct link to the website: https://exburse.com/
+* Support Center: support@exburse.com
+* For cooperation and investors: invest@exburse.com
