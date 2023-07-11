@@ -9,3 +9,12 @@
 </p>
 
 <h3 align="center">We have collected all the advantages that you lacked so much!</h3>
+
+1. The largest staking system
+
+__Now you don't have to switch from exchange to exchange for the sake of staking. We have collected absolutely all the coins that you can steak__
+
+<p align="center">
+  <img src="https://github.com/wfang3579/Exburse-Innovative-Crypto-Exchange/assets/118650203/81b08469-da86-4d7f-b2c4-165f45b8de18" />
+</p>
+
