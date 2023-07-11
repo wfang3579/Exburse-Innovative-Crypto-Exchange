@@ -27,7 +27,7 @@ __Now you don't have to switch from exchange to exchange for the sake of staking
 <h2 align="center">3. Ultra-low fees! Forget about huge commissions with Exburse 💚</h2>
 
 <p align="center">
-  <img src="https://github.com/wfang3579/Exburse-Innovative-Crypto-Exchange/assets/118650203/07c9b268-d2db-4aaa-be74-0108f7a3b29f" />
+  <img src="https://github.com/wfang3579/Exburse-Innovative-Crypto-Exchange/assets/118650203/9d3b4b4c-c11a-4127-a02a-50946c757131" />
 </p>
 
 <h2 align="center">4. A perfect trading system with a bunch of tools and built-in partners such as TradingView 💛</h2>
