@@ -29,3 +29,10 @@ __Now you don't have to switch from exchange to exchange for the sake of staking
 <p align="center">
   <img src="https://github.com/wfang3579/Exburse-Innovative-Crypto-Exchange/assets/118650203/07c9b268-d2db-4aaa-be74-0108f7a3b29f" />
 </p>
+
+<h2 align="center">4. A perfect trading system with a bunch of tools and built-in partners such as TradingView 💛</h2>
+
+<p align="center">
+  <img src="https://github.com/wfang3579/Exburse-Innovative-Crypto-Exchange/assets/118650203/8c7b6833-40f1-4c63-8e10-e3c5e5dd8822" />
+</p>
+
