@@ -10,7 +10,7 @@
 
 <h3 align="center">We have collected all the advantages that you lacked so much!</h3>
 
-<h2 align="center">The largest staking system</h2>
+<h2 align="center">1. The largest staking system 💙</h2>
 
 __Now you don't have to switch from exchange to exchange for the sake of staking. We have collected absolutely all the coins that you can steak__
 
