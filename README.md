@@ -23,3 +23,5 @@ __Now you don't have to switch from exchange to exchange for the sake of staking
 <p align="center">
   <img src="https://github.com/wfang3579/Exburse-Innovative-Crypto-Exchange/assets/118650203/07431a3b-cb4a-4228-b852-e16670566055" />
 </p>
+
+<h2 align="center">3. Ultra-low fees! Forget about huge commissions with Exburse 💚</h2>
