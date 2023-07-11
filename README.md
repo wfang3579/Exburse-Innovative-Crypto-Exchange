@@ -36,3 +36,4 @@ __Now you don't have to switch from exchange to exchange for the sake of staking
   <img src="https://github.com/wfang3579/Exburse-Innovative-Crypto-Exchange/assets/118650203/8c7b6833-40f1-4c63-8e10-e3c5e5dd8822" />
 </p>
 
+<h4 align="center">As well as hundreds of other features that will definitely surprise you!</h4>
