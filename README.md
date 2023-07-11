@@ -4,9 +4,8 @@
 
 <h2 align="center">Trade easily! Buy and sell using your preferred payment methods! And a welcome bonus of 100$ for the first deposit will help in this!</h2>
 
-
 <p align="center">
-  <img src="https://github.com/wfang3579/Exburse-Innovative-Crypto-Exchange/assets/118650203/5dc9aa1c-81b8-40cd-85bf-6c5701fd9455" />
+  <img src="https://github.com/wfang3579/Exburse-Innovative-Crypto-Exchange/assets/118650203/8421d193-55ca-4763-953c-034f469a7383" />
 </p>
 
 <h3 align="center">We have collected all the advantages that you lacked so much!</h3>
@@ -16,7 +15,7 @@
 __Now you don't have to switch from exchange to exchange for the sake of staking. We have collected absolutely all the coins that you can steak__
 
 <p align="center">
-  <img src="https://github.com/wfang3579/Exburse-Innovative-Crypto-Exchange/assets/118650203/81b08469-da86-4d7f-b2c4-165f45b8de18" />
+  <img src="https://github.com/wfang3579/Exburse-Innovative-Crypto-Exchange/assets/118650203/5e521712-5881-4035-aa49-eb53ddd0fb7d" />
 </p>
 
 <h2 align="center">2. Referral system with huge bonuses! Bring your friends and earn with them 💜</h2>
