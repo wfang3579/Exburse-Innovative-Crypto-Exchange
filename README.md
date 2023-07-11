@@ -18,4 +18,8 @@ __Now you don't have to switch from exchange to exchange for the sake of staking
   <img src="https://github.com/wfang3579/Exburse-Innovative-Crypto-Exchange/assets/118650203/81b08469-da86-4d7f-b2c4-165f45b8de18" />
 </p>
 
-<h2 align="center">2. Referral system with huge bonuses! Bring your friends and earn money with them 💜</h2>
+<h2 align="center">2. Referral system with huge bonuses! Bring your friends and earn with them 💜</h2>
+
+<p align="center">
+  <img src="https://github.com/wfang3579/Exburse-Innovative-Crypto-Exchange/assets/118650203/07431a3b-cb4a-4228-b852-e16670566055" />
+</p>
